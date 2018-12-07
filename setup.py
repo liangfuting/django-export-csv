@@ -26,7 +26,7 @@ setup(
     author_email='skycc71640@gmail.com',
     url='https://github.com/oddcc/django-export-csv',
     install_requires=[
-        'django>=1.8.8, <2.0',
+        'django>=1.8.8',
         'unicodecsv>=0.14.1',
     ],
     classifiers=[
