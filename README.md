@@ -1,8 +1,3 @@
-# django-export-csv
-[![Build Status](https://travis-ci.org/oddcc/django-export-csv.svg?branch=master)](https://travis-ci.org/oddcc/django-export-csv)
-[![Coverage Status](https://coveralls.io/repos/github/oddcc/django-export-csv/badge.svg?branch=develop)](https://coveralls.io/github/oddcc/django-export-csv?branch=develop)
-
-[中文文档](https://github.com/oddcc/django-export-csv/blob/master/README_CN.md)
 ## Introduction
 a CSV exporter for Django
 this tool create a shortcut to render a queryset to a CSV steaming HTTP response. 
